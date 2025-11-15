@@ -1,11 +1,18 @@
 ---
 title: 🌌 The Anthropic Norm & the Mediocritic Principle of State
-summary: "Defines the Anthropic Norm — the modal, not mean, foundation of cosmic and worldmaking coherence — and the Mediocritic Principle that governs the distribution of stable states in the universe."
-tags: [meta, cosmology, philosophy, anthropic, norm, mediocritic]
+summary: Defines the Anthropic Norm — the modal, not mean, foundation of cosmic and worldmaking coherence — and the Mediocritic Principle that governs the distribution of stable states in the universe.
+tags:
+  - meta
+  - cosmology
+  - philosophy
+  - anthropic
+  - norm
+  - mediocritic
 date: 2025-11-13
 status: canonical
-version: 1.0
-related: [SANC Principle, Nomenclature and Neology, Monons 1 — Framework and Equations]
+version: 1
+related:
+  - The SANC Philosophy
 ---
 
 > [!axiom] **The Anthropic Norm**  
@@ -72,5 +79,8 @@ In worldcraft terms:
 > [!related]
 > **Related Meta Notes:**  
 > [[Principles — Integrity in Worldmaking]] → Overview 
-> [[The SANC Principles]] → Methodological rigor  
+> [[The SANC Philosophy]] → Methodological rigor  
 > [[The GEWE Corollary]] → Pragmatic Precision
+
+[[The GEWE Corollary|⇐]] ❖ [[Orientation|⇒]]
+

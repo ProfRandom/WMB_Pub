@@ -92,4 +92,4 @@ Worlds are living systems; their models should breathe.
 > 4. Self-Adjusting, Non-Coercive → *Coherence, not control.*
 
 ---
-
+[[Principles — Integrity in Worldmaking|⇐]] ❖ [[The GEWE Corollary|⇒]]

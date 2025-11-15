@@ -70,7 +70,7 @@ In that instant, the reader’s attention shifts from awe (*“the dragon’s go
 - Even small lapses in optical or physical logic can puncture suspension of disbelief more than grand impossibilities ever could.
 
 ### Prevention
-Potholes close easily when the creator honors the **[[The SANC Principles|Second SANC Form]]**:
+Potholes close easily when the creator honors the **[[The SANC Philosophy|Second SANC Form]]**:
 
 - Keep every model and equation only as complex as the world demands.  
 - Apply the **GEWE** standard — *Good Enough for Worldmaking Efforts* — where precision adds nothing to plausibility.  
@@ -84,6 +84,8 @@ Potholes close easily when the creator honors the **[[The SANC Principles|Second
 
 > [!related]
 > **Related Meta Notes:**  
-> [[The SANC Principles]] → Methodological rigor  
+> [[The SANC Philosophy]] → Methodological rigor  
 > [[The GEWE Corollary]] → Pragmatic Precision  
 > [[The Anthropic Norm and the Mediocritic Principle]] → Cosmic Context
+
+[[Meta — The Philosophy of Coherence|⇐]] ❖ [[The SANC Philosophy|⇒]]

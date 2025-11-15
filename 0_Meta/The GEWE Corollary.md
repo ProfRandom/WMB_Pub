@@ -71,5 +71,7 @@ It assumes that the purpose of worldcraft is not to replicate physics, but to **
 > [!related]
 > **Related Meta Notes:**  
 > [[Principles — Integrity in Worldmaking]] → Overview 
-> [[The SANC Principles]] → Methodological rigor  
+> [[The SANC Philosophy]] → Methodological rigor  
 > [[The Anthropic Norm and the Mediocritic Principle]] → Cosmic context
+
+[[The SANC Philosophy|⇐]] ❖ [[The Anthropic Norm and the Mediocritic Principle|⇒]]

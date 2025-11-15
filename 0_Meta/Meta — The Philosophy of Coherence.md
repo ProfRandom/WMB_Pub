@@ -6,6 +6,8 @@ date: 2025-11-13
 status: canonical
 version: 1.0
 ---
+```table-of-contents
+```
 
 > [!quote] **“A world is not made by invention, but by coherence.”**  
 > — *WCB Meta Axiom*
@@ -26,29 +28,13 @@ the standards of truth, clarity, and sufficiency that sustain immersion.
 | **Order** | **File** | **Theme** | **Focus** |
 |:--|:--|:--|:--|
 | 1️⃣ | [[Principles — Integrity in Worldmaking]] | *Ethos* | Why coherence matters — the balance of mythos and logos. |
-| 2️⃣ | [[The SANC Principles]] | *Method* | How to sustain coherence through clarity, sufficiency, and adaptability. |
+| 2️⃣ | [[The SANC Philosophy]] | *Method* | How to sustain coherence through clarity, sufficiency, and adaptability. |
 | 3️⃣ | [[The GEWE Corollary]] | *Practice* | When precision stops serving plausibility — the “Good Enough” rule. |
 | 4️⃣ | [[The Anthropic Norm and the Mediocritic Principle]] | *Context* | Where coherence meets the cosmos — why most things are ordinary most of the time. |
 
 ---
 
 ## 🧠 The Meta Flow
-
-```mermaid
-flowchart TD
-    A[Mythos ↔ Logos] --> B[SANC — Method of Coherence]
-    B --> C[GEWE — Threshold of Precision]
-    C --> D[Anthropic Norm — Context of Probability]
-    D --> A
-```
-
-> **Conceptual Circuit**
-> 
-> - **Mythos ↔ Logos** → Establish intent  
-> - **SANC** → Define method  
-> - **GEWE** → Set threshold  
-> - **Anthropic Norm** → Frame context  
-> - **Loop closes:** Coherence becomes self-sustaining
 
 > [!hint]
 > *Meta is recursive.*  
@@ -62,14 +48,14 @@ flowchart TD
 
 ## 🧭 Cross-Domain Relevance
 
-| **Domain** | **Meta Link** |
-|:--|:--|
-| **Ontics** | Defines *what exists* — Meta defines *why it matters.* |
-| **Metrics** | Measures *how much* — Meta decides *how precise.* |
-| **Morphotics** | Shapes *form* — Meta governs *clarity of representation.* |
-| **Conformics** | Describes *material behavior* — Meta ensures *logical consistency.* |
-| **Animotics** | Studies *life and equilibrium* — Meta maintains *philosophical continuity.* |
-| **Milieutics** | Defines *context* — Meta keeps *context coherent with cause.*
+| **Domain**                              | **Relevance**                      |
+| :-------------------------------------- | :--------------------------------- |
+| **[[Ontics_Overview\|Ontics]]**         | **Defines *what exists***          |
+| **[[Metrics_Overview\|Metrics]]**       | Measures *how much*                |
+| **[[Morphotics_Overview\|Morphotics]]** | Describes *form*                   |
+| **[[Conformics_Overview\|Conformics]]** | Details *material behavior*        |
+| **[[Animotics_Overview\|Animotics]]**   | Articulates *life and equilibrium* |
+| **[[Milieutics_Overview\|Milieutics]]** | Explores *context*                 |
 
 ---
 
@@ -83,4 +69,4 @@ flowchart TD
 
 ---
 
-**Next →** [[Principles — Integrity in Worldmaking]]
+[[Orientation|⇐]] ❖ [[Principles — Integrity in Worldmaking|⇒]]
