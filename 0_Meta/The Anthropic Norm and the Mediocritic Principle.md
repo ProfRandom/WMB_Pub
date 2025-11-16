@@ -79,7 +79,7 @@ In worldcraft terms:
 > [!related]
 > **Related Meta Notes:**  
 > [[Principles — Integrity in Worldmaking]] → Overview 
-> [[The SANC Philosophy]] → Methodological rigor  
+> [[The SANC Charter]] → Methodological rigor  
 > [[The GEWE Corollary]] → Pragmatic Precision
 
 [[The GEWE Corollary|⇐]] ❖ [[Orientation|⇒]]

@@ -10,15 +10,15 @@ version: 1.0
 ```
 
 > [!quote] **“A world is not made by invention, but by coherence.”**  
-> — *WCB Meta Axiom*
+> — *WMB Meta Axiom*
 
 ---
 
 ## 🪞 What Meta Is
 
-**Meta** is the philosophical foundation of *World Crafting Basics (WCB).*  
+**Meta** is the philosophical foundation of *World Crafting Basics (WMB).*  
 It defines the *grammar of coherence* — how worlds remain believable, logical, and alive.  
-While other WCB domains deal with matter, energy, or life, **Meta** governs the *mind* of creation:  
+While other WMB domains deal with matter, energy, or life, **Meta** governs the *mind* of creation:  
 the standards of truth, clarity, and sufficiency that sustain immersion.
 
 ---
@@ -28,7 +28,7 @@ the standards of truth, clarity, and sufficiency that sustain immersion.
 | **Order** | **File** | **Theme** | **Focus** |
 |:--|:--|:--|:--|
 | 1️⃣ | [[Principles — Integrity in Worldmaking]] | *Ethos* | Why coherence matters — the balance of mythos and logos. |
-| 2️⃣ | [[The SANC Philosophy]] | *Method* | How to sustain coherence through clarity, sufficiency, and adaptability. |
+| 2️⃣ | [[The SANC Charter]] | *Method* | How to sustain coherence through clarity, sufficiency, and adaptability. |
 | 3️⃣ | [[The GEWE Corollary]] | *Practice* | When precision stops serving plausibility — the “Good Enough” rule. |
 | 4️⃣ | [[The Anthropic Norm and the Mediocritic Principle]] | *Context* | Where coherence meets the cosmos — why most things are ordinary most of the time. |
 
