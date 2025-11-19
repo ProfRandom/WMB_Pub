@@ -132,8 +132,6 @@ It improves readability and narrative clarity for small-mass bodies such as **Ve
 - It is especially useful for monons with masses between $10^{-6}\oplus$ and $10^{-1}\oplus$, where decimal terran mass values become visually dense or cognitively opaque.  
 - This symbolic shorthand allows you to say:  
   > “Ceres is about $157$ **microterrans** ($157\,\mu t$)” instead of “Ceres is $0.000157\,\oplus$.”  
-- However, even with this scaling, **fractional expressions remain common** at the lowest mass levels:  
-  > “Miranda is approximately $0.001\,\mu t$ in mass” is still easier to read and parse than “Miranda is one **demimicroterran ($\text{dm}\mu$}** in mass.”
 
 > **In short:** The $\mu t$ unit supports clarity without sacrificing scalar precision — a vital aid to both symbolic modeling and *thesiastic* storytelling.  While most useful in describing small-mass duramons, these subscale prefixes can be used wherever a scaling prefix is needed.
 
@@ -143,7 +141,7 @@ $$
 \begin{array}{lrll}
 \textbf{Example Monon} & \textbf{Mass ($\oplus$)} & \textbf{Symbolic} & \text{Domain}\\
 \hline\hline
-\text{Miranda} & 0.0000076 & 7.60\text{\;dnt} & \text{deniterran}\\
+\text{Miranda} & 0.0000076 & 7.60\text{\;$\mu$t} & \text{microterran}\\
 \text{Ceres} & 0.000157 & 1.57 \text{\;dmt} & \text{demiterran}\\
 \text{Luna} & 0.0123 & 1.23 \text{\;ct} & \text{centiterran}\\
 \text{Proxima b} & 1.27	& 1.27\text{\;t} & \text{terran}\\

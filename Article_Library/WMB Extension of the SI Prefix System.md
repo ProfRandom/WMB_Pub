@@ -48,68 +48,69 @@ $$
 \textbf{Power} \\[3pt]
 \hline
 \text{quecto-}  & \text{q} & 10^{-30} \\
-\text{---}  & \text{ } & 10^{-29} \\
-\text{---}  & \text{ } & 10^{-28} \\
+\textit{centironto-}  & \text{c-q} & 10^{-29} \\
+\textit{decironto-}  & \text{d-q} & 10^{-28} \\
 \text{ronto-}  & \text{r} & 10^{-27} \\
-\text{---}  & \text{ } & 10^{-26} \\
-\text{---}  & \text{ } & 10^{-25} \\
+\textit{centiyocto-}  & \text{c-y} & 10^{-26} \\
+\textit{deciyocto-}  & \text{d-y} & 10^{-25} \\
 \text{yocto-}  & \text{y} & 10^{-24} \\
-\text{---}  & \text{ } & 10^{-23} \\
-\text{---}  & \text{ } & 10^{-22} \\
+\textit{centizepto-}  & \text{c-z} & 10^{-23} \\
+\textit{decizepto-}  & \text{d-z} & 10^{-22} \\
 \text{zepto-}  & \text{z} & 10^{-21} \\
-\text{---}  & \text{ } & 10^{-20} \\
-\text{---}  & \text{ } & 10^{-19} \\
+\textit{centiatto-}  & \text{c-a} & 10^{-20} \\
+\textit{deciatto-}  & \text{d-a} & 10^{-19} \\
 \text{atto-}  & \text{a} & 10^{-18} \\
-\text{---}  & \text{ } & 10^{-17} \\
-\text{---}  & \text{ } & 10^{-16} \\
-\text{femto-}  & \text{ } & 10^{-15} \\
-\text{---}  & \text{ } & 10^{-14} \\
-\text{---}  & \text{ } & 10^{-13} \\
+\textit{centifemto-}  & \text{c-f} & 10^{-17} \\
+\textit{decifemto-}  & \text{d-f} & 10^{-16} \\
+\text{femto-}  & \text{f} & 10^{-15} \\
+\textit{centipico-}  & \text{c-p} & 10^{-14} \\
+\textit{decipico-}  & \text{d-p} & 10^{-13} \\
 \text{pico-}  & \text{p} & 10^{-12} \\
-\text{---}  & \text{ } & 10^{-11} \\
-\text{iota-}  & \text{io} & 10^{-10} \\
+\textbf{lilli-}  & \text{ll} & 10^{-11} \\
+\textbf{iota-}  & \text{io} & 10^{-10} \\
 \text{nano-}  & \text{n}  & 10^{-9}  \\
-\text{okti-}  & \text{ok} & 10^{-8}  \\
-\text{septi-} & \text{sp} & 10^{-7}  \\
+\textbf{okti-}  & \text{ok} & 10^{-8}  \\
+\textbf{septi-} & \text{sp} & 10^{-7}  \\
 \text{micro-} & \mu      & 10^{-6}  \\
-\text{penti-} & \text{pn} & 10^{-5}  \\
-\text{demi-}  & \text{dm} & 10^{-4}  \\
+\textbf{penti-} & \text{pn} & 10^{-5}  \\
+\textbf{demi-}  & \text{dm} & 10^{-4}  \\
 \text{milli-} & \text{m}  & 10^{-3}  \\
 \text{centi-} & \text{c}  & 10^{-2}  \\
 \text{deci-}  & \text{d}  & 10^{-1}  \\
 \text{-}      & \text{ }  & 10^{0}   \\
-\text{deka-}  & \text{da} & 10^{1}   \\
-\text{hecto-} & \text{h}  & 10^{2}   \\
-\text{kilo-}  & \text{k}  & 10^{3}   \\
-\text{myria-} & \text{Mr} & 10^{4}   \\
+\text{deka-}  & \text{D} & 10^{1}   \\
+\text{hecto-} & \text{H}  & 10^{2}   \\
+\text{kilo-}  & \text{K}  & 10^{3}   \\
+\textbf{myria-} & \text{Mr} & 10^{4}   \\
 \text{quinta-}  & \text{Qn} & 10^{5}   \\
 \text{mega-}  & \text{M} & 10^{6}   \\
-\text{hepta-} & \text{Hp} & 10^{7}   \\
-\text{octa-}  & \text{Oc} & 10^{8}   \\
+\textbf{hepta-} & \text{Hp} & 10^{7}   \\
+\textbf{octa-}  & \text{Oc} & 10^{8}   \\
 \text{giga-}  & \text{G} & 10^{9}   \\
-\text{dena-}  & \text{Dn} & 10^{10}  \\
-\text{onda-}  & \text{On} & 10^{11}  \\
+\textbf{dena-}  & \text{Dn} & 10^{10}  \\
+\textbf{onda-}  & \text{On} & 10^{11}  \\
 \text{tera-}  & \text{T}  & 10^{12} \\
-\text{triska-}& \text{Tr} & 10^{13} \\
-\text{quadra-}& \text{Qd} & 10^{14} \\
+\textbf{triska-}& \text{Tr} & 10^{13} \\
+\textbf{quadra-}& \text{Qd} & 10^{14} \\
 \text{peta-}  & \text{P} & 10^{15} \\
-\text{sexa-}  & \text{Sx} & 10^{16} \\
-\text{septa-} & \text{St} & 10^{17} \\
+\textbf{sexa-}  & \text{Sx} & 10^{16} \\
+\textbf{septa-} & \text{St} & 10^{17} \\
 \text{exa-}   & \text{E} & 10^{18} \\
-\text{---}   & \text{ } & 10^{19} \\
-\text{---}   & \text{ } & 10^{20} \\
+\textbf{brobdi-}   & \text{Bd} & 10^{19} \\
+\textbf{tita-}   & \text{Tt} & 10^{20} \\
 \text{zetta-}   & \text{Z} & 10^{21} \\
-\text{---}   & \text{ } & 10^{12} \\
-\text{---}   & \text{ } & 10^{23} \\
+\textit{dekazetta-}   & \text{D-Z} & 10^{22} \\
+\textit{hectozetta-}   & \text{H-Z} & 10^{23} \\
 \text{yotta-}   & \text{Y} & 10^{24} \\
-\text{---}   & \text{ } & 10^{25} \\
-\text{---}   & \text{ } & 10^{26} \\
+\textit{dekayotta-}   & \text{D-Y} & 10^{25} \\
+\textit{hectoyotta-}   & \text{H-Y} & 10^{26} \\
 \text{ronna-}   & \text{R} & 10^{27} \\
-\text{---}   & \text{ } & 10^{28} \\
-\text{---}   & \text{ } & 10^{29} \\
+\textit{dekaronna-}   & \text{D-R} & 10^{28} \\
+\textit{hectoronna-}   & \text{H-R} & 10^{29} \\
 \text{quetta-}   & \text{Q} & 10^{30} \\
 \end{array}
 $$
+>Note: Prefixes in *italics* are **WMB**-invented compounds, not official SI prefixes, and thus do not have defined abbreviations; **WMB** uses hyphenated abbreviations solely for completeness.
 
 - Where official SI prefixes exist (e.g., *micro-*, *milli-*, etc.), **WMB** uses them directly.  
 - For intermediate powers without SI prefixes, **WMB** adopts consistent **neologisms** based on the exponent’s magnitude:  
